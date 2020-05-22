@@ -1,4 +1,3 @@
-![CI](https://github.com/google/pybadges/blob/master/tests/golden-images/complete.svg)
 
 # test
 ## A geolocation app
